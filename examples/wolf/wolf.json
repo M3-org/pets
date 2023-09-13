@@ -1,0 +1,11 @@
+{
+  "type": "M3_pet",
+  "version": "0.1.0",
+  "name": "Wolf",
+  "description": "A little blue wolf.",
+  "model": "wolf.glb",
+  "speed": 3,
+  "near": 2,
+  "far": 4,
+  "emotes": []
+}
