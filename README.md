@@ -177,10 +177,6 @@ We've included a simple [validation script](/validate.js) that can be used by pl
 
 The [examples](/examples) folder includes example pets and assets.
 
-## Todo
-
-- [ ] Relative urls inside the document? These only make sense when the url of the document itself is available (eg pasting a link to a json file)
-
 ---
 
 ## FAQ
