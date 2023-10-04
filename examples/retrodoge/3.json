@@ -1,0 +1,71 @@
+{
+  "name": "RetroDoge #3",
+  "project": "RetroDoges",
+  "description": "test",
+  "type": "3d",
+  "format": "vrm",
+  "vrm_url": "https://ipfs.io/ipfs/bafybeic7nge42wr6jgr4r3v7o5pp4ern3enbcigtlmq6aoljx2zl3tjwly/3.vrm",
+  "model_url": "https://ipfs.io/ipfs/bafybeic7nge42wr6jgr4r3v7o5pp4ern3enbcigtlmq6aoljx2zl3tjwly/3.vrm",
+  "image": "ipfs://bafybeic6eoenbyoeulnvwaawddgva7jqqzuftzhy3ya7qu4inqszil5eta/3.jpg",
+  "glb_url": "https://media.retrodoges.com/pet/3.glb",
+  "pet_url": "https://media.retrodoges.com/viewer/3.glb",
+  "animation_url": "https://media.retrodoges.com/nft/?id=3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "UCLA Campus"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "No Blush"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Black And White"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "FEB. 13 1984"
+    },
+    {
+      "trait_type": "Emoji",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored Dark Brown"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Copper"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Elton John 2"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pento Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Pendant",
+      "value": "BoyGame"
+    },
+    {
+      "trait_type": "VHS Control",
+      "value": "REW"
+    }
+  ]
+}
